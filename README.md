@@ -12,7 +12,7 @@ Dalam menganalisis klusterisasi ini, saya menggunakan beberapa variabel berikut.
 - Persen_Perpus : Persentase jumlah perpustakaan terhadap jumlah sekolah
 - Persen_UKS    : Persentase jumlah UKS terhadap jumlah sekolah
 
-Berdasarkan hasil klusterisasi terdapat 6 kluster provinsi sebagai berikut.
+Berdasarkan hasil klusterisasi terdapat 6 kluster provinsi sebagai berikut. 
 |   Cluster 1   |   Cluster 2   |   Cluster 3   |   Cluster 4    |   Cluster 5   |   Cluster 6   |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Maluku Utara   | Jawa Tengah  | Banten  | DKI Jakarta   | Jawa Barat   | Aceh   |
@@ -25,6 +25,7 @@ Berdasarkan hasil klusterisasi terdapat 6 kluster provinsi sebagai berikut.
 |   |   | Kalimantan Tengah  |   |   |Maluku   |
 |   |   | Kalimantan Selatan  |   |   |Nusa Tenggara Timur   |
 |   |   | Kalimantan Utara  |   |   |   |
+Perbandingan nilai variabel dari kluster-kluster tersebut dapat dilihat pada grafik di file comparison chart. Dari grafik tersebut terdapat rentang nilai 1 sampai 6 yang menunjukkan jumlah atau persentase dari variabel-variable tersebut (1 : rendah, 6 : tinggi).
 
 ## Conclusion
 Dari hasil analisis tersebut dapat ditarik beberapa simpulan sebagai berikut.
