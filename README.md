@@ -25,9 +25,12 @@ Berdasarkan hasil klusterisasi terdapat 6 kluster provinsi sebagai berikut.
 |   |   | Kalimantan Tengah  |   |   |Maluku   |
 |   |   | Kalimantan Selatan  |   |   |Nusa Tenggara Timur   |
 |   |   | Kalimantan Utara  |   |   |   |
-Perbandingan nilai variabel dari kluster-kluster tersebut dapat dilihat pada grafik di file comparison chart. Dari grafik tersebut terdapat rentang nilai 1 sampai 6 yang menunjukkan jumlah atau persentase dari variabel-variable tersebut (1 : rendah, 6 : tinggi).
+
 
 ## Conclusion
 Dari hasil analisis tersebut dapat ditarik beberapa simpulan sebagai berikut.
 - Cluster 1 merupakan cluster dengan fasilitas yang kurang memadai dibandingkan dengan cluster lainnya
 - Terdapat banyak provinsi di Kalimantan dan Sulawesi yang berada dalam satu kluster. Hal tersebut menandakan pengadaan fasilitas pendidikan di pulau tersebut cukup merata
+
+## Notes
+Perbandingan nilai variabel dari kluster-kluster tersebut dapat dilihat pada grafik di file comparison chart. Dari grafik tersebut terdapat rentang nilai 1 sampai 6 yang menunjukkan jumlah atau persentase dari variabel-variable tersebut (1 : rendah, 6 : tinggi).
