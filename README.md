@@ -1,4 +1,4 @@
-<h1 align="center"?\> Indonesian Province Clustering According to High School Educational Facility with K-Means </h1>
+<h1 align="center"?\> Indonesian Province Clustering Based on High School Educational Facility with K-Means Algorithm </h1>
 <br></br>
 
 ## Brief Explanation
