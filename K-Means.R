@@ -38,27 +38,6 @@ kmeant %>% filter (cluster == 4)
 kmeant %>% filter(cluster == 5)
 kmeant %>% filter(cluster == 6)
 
-summary(ctr)
-ctr
 
-a_ = strtoi(names(sort(a[, 1])))
-b_ = strtoi(names(sort(a[, 2])))
-c_ = strtoi(names(sort(a[, 3])))
-d_ = strtoi(names(sort(a[, 4])))
-e_ = strtoi(names(sort(a[, 5])))
-
-a = c(1,4,5,2,6,3)
-b = c(1,3,4,6,5,2)
-c = c(1,5,2,6,4,3)
-d = c(1,6,3,2,4,5)
-e = c(1,6,3,5,4,2)  
-
-cls_df = data.frame(c1 = a, c2 = b, c3 = c, c4 = d, c5 = e)
-rownames(cls_df) = c("c1", "c2","c3","c4","c5","c6")
-colnames(cls_df) = colnames(ctr)
-cls_df
-
-library("writexl")
-write_xlsx(cls_df, paste(getwd(), "cluster_df.xlsx", sep="/"))
 
 
